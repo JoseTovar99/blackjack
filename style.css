@@ -1,5 +1,5 @@
 body {
-background: rgb(0, 0, 0);
+background: rgb(3, 2, 34);
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 text-align: center;
 color: white;
@@ -14,7 +14,7 @@ margin-top: -3rem;
 }
 
 h1 {
-    color: goldenrod;
+    color: rgb(230, 98, 10);
 }
 
 #message-el {
@@ -32,9 +32,9 @@ p {
 button  {
     text-align: center;
     align-items: center;
-    color: #016f32;
+    color: #000000;
     width: 180px;
-    background: goldenrod;
+    background: rgb(243, 110, 1);
     font-size: 1.5rem;
     height: 60px;
     padding-top: 5px;
@@ -49,5 +49,5 @@ button:hover {
     background: black;
     color: goldenrod;
     cursor: pointer;
-    transform: translateY(-7px);
+    transform: translateY(-3px);
 }
